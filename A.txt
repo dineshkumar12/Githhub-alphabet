@@ -1,7 +1,5 @@
 A
 B
-E
-F
 G
 H
 I
