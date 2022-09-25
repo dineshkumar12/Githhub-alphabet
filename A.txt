@@ -1,11 +1,2 @@
 A
 B
-c
-D
-E
-F
-G
-H
-I
-j
-K
